@@ -1,0 +1,3 @@
+# maven-project
+
+#Entity class
